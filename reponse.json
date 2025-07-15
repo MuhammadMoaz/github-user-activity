@@ -1,0 +1,683 @@
+[
+    {
+        "id": "52088775545",
+        "type": "PushEvent",
+        "actor": {
+            "id": 69945606,
+            "login": "MuhammadMoaz",
+            "display_login": "MuhammadMoaz",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/MuhammadMoaz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/69945606?"
+        },
+        "repo": {
+            "id": 1012426562,
+            "name": "MuhammadMoaz/cli-task-tracker",
+            "url": "https://api.github.com/repos/MuhammadMoaz/cli-task-tracker"
+        },
+        "payload": {
+            "repository_id": 1012426562,
+            "push_id": 25498675531,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "e8f1e87af4384a194f800d97b5b11160dcbf1a73",
+            "before": "e75e727143f65a9397c0c8e7533b2bf093a9bad7",
+            "commits": [
+                {
+                    "sha": "e8f1e87af4384a194f800d97b5b11160dcbf1a73",
+                    "author": {
+                        "email": "muhammadmoaz2020@outlook.com",
+                        "name": "MuhammadMoaz"
+                    },
+                    "message": "added to README",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/MuhammadMoaz/cli-task-tracker/commits/e8f1e87af4384a194f800d97b5b11160dcbf1a73"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2025-07-15T05:33:52Z"
+    },
+    {
+        "id": "52016330469",
+        "type": "WatchEvent",
+        "actor": {
+            "id": 69945606,
+            "login": "MuhammadMoaz",
+            "display_login": "MuhammadMoaz",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/MuhammadMoaz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/69945606?"
+        },
+        "repo": {
+            "id": 88011908,
+            "name": "practical-tutorials/project-based-learning",
+            "url": "https://api.github.com/repos/practical-tutorials/project-based-learning"
+        },
+        "payload": {
+            "action": "started"
+        },
+        "public": true,
+        "created_at": "2025-07-13T03:35:09Z",
+        "org": {
+            "id": 89421154,
+            "login": "practical-tutorials",
+            "gravatar_id": "",
+            "url": "https://api.github.com/orgs/practical-tutorials",
+            "avatar_url": "https://avatars.githubusercontent.com/u/89421154?"
+        }
+    },
+    {
+        "id": "52007931797",
+        "type": "PushEvent",
+        "actor": {
+            "id": 69945606,
+            "login": "MuhammadMoaz",
+            "display_login": "MuhammadMoaz",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/MuhammadMoaz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/69945606?"
+        },
+        "repo": {
+            "id": 1012426562,
+            "name": "MuhammadMoaz/cli-task-tracker",
+            "url": "https://api.github.com/repos/MuhammadMoaz/cli-task-tracker"
+        },
+        "payload": {
+            "repository_id": 1012426562,
+            "push_id": 25455348412,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "e75e727143f65a9397c0c8e7533b2bf093a9bad7",
+            "before": "3ee71870dadd205f622be60f2a162a46b912fff2",
+            "commits": [
+                {
+                    "sha": "e75e727143f65a9397c0c8e7533b2bf093a9bad7",
+                    "author": {
+                        "email": "muhammadmoaz2020@outlook.com",
+                        "name": "MuhammadMoaz"
+                    },
+                    "message": "All functions complete. Start working on QoL changes and minor bugs",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/MuhammadMoaz/cli-task-tracker/commits/e75e727143f65a9397c0c8e7533b2bf093a9bad7"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2025-07-12T14:58:05Z"
+    },
+    {
+        "id": "52007836543",
+        "type": "PushEvent",
+        "actor": {
+            "id": 69945606,
+            "login": "MuhammadMoaz",
+            "display_login": "MuhammadMoaz",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/MuhammadMoaz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/69945606?"
+        },
+        "repo": {
+            "id": 1012426562,
+            "name": "MuhammadMoaz/cli-task-tracker",
+            "url": "https://api.github.com/repos/MuhammadMoaz/cli-task-tracker"
+        },
+        "payload": {
+            "repository_id": 1012426562,
+            "push_id": 25455285535,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "3ee71870dadd205f622be60f2a162a46b912fff2",
+            "before": "c5ddd71ae4d1817a785b8dd236bf1e0bd5e4aa29",
+            "commits": [
+                {
+                    "sha": "3ee71870dadd205f622be60f2a162a46b912fff2",
+                    "author": {
+                        "email": "muhammadmoaz2020@outlook.com",
+                        "name": "MuhammadMoaz"
+                    },
+                    "message": "almost complete listing functions, have to fix an issue where it only returns first instance",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/MuhammadMoaz/cli-task-tracker/commits/3ee71870dadd205f622be60f2a162a46b912fff2"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2025-07-12T14:50:36Z"
+    },
+    {
+        "id": "52000859272",
+        "type": "PushEvent",
+        "actor": {
+            "id": 69945606,
+            "login": "MuhammadMoaz",
+            "display_login": "MuhammadMoaz",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/MuhammadMoaz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/69945606?"
+        },
+        "repo": {
+            "id": 1012426562,
+            "name": "MuhammadMoaz/cli-task-tracker",
+            "url": "https://api.github.com/repos/MuhammadMoaz/cli-task-tracker"
+        },
+        "payload": {
+            "repository_id": 1012426562,
+            "push_id": 25450758111,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "c5ddd71ae4d1817a785b8dd236bf1e0bd5e4aa29",
+            "before": "3fc58279a3f046b563c64418396d40f85af81105",
+            "commits": [
+                {
+                    "sha": "c5ddd71ae4d1817a785b8dd236bf1e0bd5e4aa29",
+                    "author": {
+                        "email": "muhammadmoaz2020@outlook.com",
+                        "name": "MuhammadMoaz"
+                    },
+                    "message": "Status updating functions complete. Modularise searching by index code",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/MuhammadMoaz/cli-task-tracker/commits/c5ddd71ae4d1817a785b8dd236bf1e0bd5e4aa29"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2025-07-12T05:37:35Z"
+    },
+    {
+        "id": "52000692418",
+        "type": "PushEvent",
+        "actor": {
+            "id": 69945606,
+            "login": "MuhammadMoaz",
+            "display_login": "MuhammadMoaz",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/MuhammadMoaz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/69945606?"
+        },
+        "repo": {
+            "id": 1012426562,
+            "name": "MuhammadMoaz/cli-task-tracker",
+            "url": "https://api.github.com/repos/MuhammadMoaz/cli-task-tracker"
+        },
+        "payload": {
+            "repository_id": 1012426562,
+            "push_id": 25450644389,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "3fc58279a3f046b563c64418396d40f85af81105",
+            "before": "de9303b75e9432f9cac70328a700dab60286f66a",
+            "commits": [
+                {
+                    "sha": "3fc58279a3f046b563c64418396d40f85af81105",
+                    "author": {
+                        "email": "muhammadmoaz2020@outlook.com",
+                        "name": "MuhammadMoaz"
+                    },
+                    "message": "Delete task complete, maybe modularise searching by index",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/MuhammadMoaz/cli-task-tracker/commits/3fc58279a3f046b563c64418396d40f85af81105"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2025-07-12T05:23:34Z"
+    },
+    {
+        "id": "51883319008",
+        "type": "PushEvent",
+        "actor": {
+            "id": 69945606,
+            "login": "MuhammadMoaz",
+            "display_login": "MuhammadMoaz",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/MuhammadMoaz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/69945606?"
+        },
+        "repo": {
+            "id": 1012426562,
+            "name": "MuhammadMoaz/cli-task-tracker",
+            "url": "https://api.github.com/repos/MuhammadMoaz/cli-task-tracker"
+        },
+        "payload": {
+            "repository_id": 1012426562,
+            "push_id": 25392925784,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "816a76375f87f49dbe88dc8003a724ba5e308b2c",
+            "before": "981dde3e1aa246ed777aac367653f5854e57f45a",
+            "commits": [
+                {
+                    "sha": "816a76375f87f49dbe88dc8003a724ba5e308b2c",
+                    "author": {
+                        "email": "muhammadmoaz2020@outlook.com",
+                        "name": "MuhammadMoaz"
+                    },
+                    "message": "Update task almost complete, need to write update back to JSON file",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/MuhammadMoaz/cli-task-tracker/commits/816a76375f87f49dbe88dc8003a724ba5e308b2c"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2025-07-09T14:40:48Z"
+    },
+    {
+        "id": "51780674879",
+        "type": "PushEvent",
+        "actor": {
+            "id": 69945606,
+            "login": "MuhammadMoaz",
+            "display_login": "MuhammadMoaz",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/MuhammadMoaz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/69945606?"
+        },
+        "repo": {
+            "id": 1012426562,
+            "name": "MuhammadMoaz/cli-task-tracker",
+            "url": "https://api.github.com/repos/MuhammadMoaz/cli-task-tracker"
+        },
+        "payload": {
+            "repository_id": 1012426562,
+            "push_id": 25343158686,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "981dde3e1aa246ed777aac367653f5854e57f45a",
+            "before": "b2f54fd3eb7dc416321cfd20f113f425ccf53a81",
+            "commits": [
+                {
+                    "sha": "981dde3e1aa246ed777aac367653f5854e57f45a",
+                    "author": {
+                        "email": "muhammadmoaz2020@outlook.com",
+                        "name": "MuhammadMoaz"
+                    },
+                    "message": "Add task function complete, start working on update task function",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/MuhammadMoaz/cli-task-tracker/commits/981dde3e1aa246ed777aac367653f5854e57f45a"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2025-07-07T14:23:02Z"
+    },
+    {
+        "id": "51776814569",
+        "type": "PushEvent",
+        "actor": {
+            "id": 69945606,
+            "login": "MuhammadMoaz",
+            "display_login": "MuhammadMoaz",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/MuhammadMoaz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/69945606?"
+        },
+        "repo": {
+            "id": 1012426562,
+            "name": "MuhammadMoaz/cli-task-tracker",
+            "url": "https://api.github.com/repos/MuhammadMoaz/cli-task-tracker"
+        },
+        "payload": {
+            "repository_id": 1012426562,
+            "push_id": 25341368202,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "b2f54fd3eb7dc416321cfd20f113f425ccf53a81",
+            "before": "2d0c75bbb521c265834ddeb155250a377a402622",
+            "commits": [
+                {
+                    "sha": "b2f54fd3eb7dc416321cfd20f113f425ccf53a81",
+                    "author": {
+                        "email": "muhammadmoaz2020@outlook.com",
+                        "name": "MuhammadMoaz"
+                    },
+                    "message": "ID generation working. Add task function complete",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/MuhammadMoaz/cli-task-tracker/commits/b2f54fd3eb7dc416321cfd20f113f425ccf53a81"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2025-07-07T13:07:48Z"
+    },
+    {
+        "id": "51744126139",
+        "type": "PushEvent",
+        "actor": {
+            "id": 69945606,
+            "login": "MuhammadMoaz",
+            "display_login": "MuhammadMoaz",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/MuhammadMoaz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/69945606?"
+        },
+        "repo": {
+            "id": 1012426562,
+            "name": "MuhammadMoaz/cli-task-tracker",
+            "url": "https://api.github.com/repos/MuhammadMoaz/cli-task-tracker"
+        },
+        "payload": {
+            "repository_id": 1012426562,
+            "push_id": 25324564809,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "2d0c75bbb521c265834ddeb155250a377a402622",
+            "before": "396deec73e79bf1d2e7f6b3a09b4b86cb0380b11",
+            "commits": [
+                {
+                    "sha": "2d0c75bbb521c265834ddeb155250a377a402622",
+                    "author": {
+                        "email": "muhammadmoaz2020@outlook.com",
+                        "name": "MuhammadMoaz"
+                    },
+                    "message": "Implemented JSON file, need to fix double serializing issue",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/MuhammadMoaz/cli-task-tracker/commits/2d0c75bbb521c265834ddeb155250a377a402622"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2025-07-06T14:42:52Z"
+    },
+    {
+        "id": "51727231628",
+        "type": "PushEvent",
+        "actor": {
+            "id": 69945606,
+            "login": "MuhammadMoaz",
+            "display_login": "MuhammadMoaz",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/MuhammadMoaz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/69945606?"
+        },
+        "repo": {
+            "id": 1012426562,
+            "name": "MuhammadMoaz/cli-task-tracker",
+            "url": "https://api.github.com/repos/MuhammadMoaz/cli-task-tracker"
+        },
+        "payload": {
+            "repository_id": 1012426562,
+            "push_id": 25313867146,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "396deec73e79bf1d2e7f6b3a09b4b86cb0380b11",
+            "before": "3ca7449b214a1ee3ce344b12302595500aa4ae69",
+            "commits": [
+                {
+                    "sha": "396deec73e79bf1d2e7f6b3a09b4b86cb0380b11",
+                    "author": {
+                        "email": "muhammadmoaz2020@outlook.com",
+                        "name": "MuhammadMoaz"
+                    },
+                    "message": "Learned Shlex and got the input handling working",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/MuhammadMoaz/cli-task-tracker/commits/396deec73e79bf1d2e7f6b3a09b4b86cb0380b11"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2025-07-05T14:31:13Z"
+    },
+    {
+        "id": "51705848504",
+        "type": "PushEvent",
+        "actor": {
+            "id": 69945606,
+            "login": "MuhammadMoaz",
+            "display_login": "MuhammadMoaz",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/MuhammadMoaz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/69945606?"
+        },
+        "repo": {
+            "id": 1012426562,
+            "name": "MuhammadMoaz/cli-task-tracker",
+            "url": "https://api.github.com/repos/MuhammadMoaz/cli-task-tracker"
+        },
+        "payload": {
+            "repository_id": 1012426562,
+            "push_id": 25301336380,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "3ca7449b214a1ee3ce344b12302595500aa4ae69",
+            "before": "09cbd0f9140baf60d3c72f3123ab6a99a6fa17bb",
+            "commits": [
+                {
+                    "sha": "3ca7449b214a1ee3ce344b12302595500aa4ae69",
+                    "author": {
+                        "email": "muhammadmoaz2020@outlook.com",
+                        "name": "MuhammadMoaz"
+                    },
+                    "message": "removed hi",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/MuhammadMoaz/cli-task-tracker/commits/3ca7449b214a1ee3ce344b12302595500aa4ae69"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2025-07-04T14:41:08Z"
+    },
+    {
+        "id": "51705805502",
+        "type": "PushEvent",
+        "actor": {
+            "id": 69945606,
+            "login": "MuhammadMoaz",
+            "display_login": "MuhammadMoaz",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/MuhammadMoaz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/69945606?"
+        },
+        "repo": {
+            "id": 1012426562,
+            "name": "MuhammadMoaz/cli-task-tracker",
+            "url": "https://api.github.com/repos/MuhammadMoaz/cli-task-tracker"
+        },
+        "payload": {
+            "repository_id": 1012426562,
+            "push_id": 25301315366,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "09cbd0f9140baf60d3c72f3123ab6a99a6fa17bb",
+            "before": "8603767a44f323183411cec37226c232fe53e153",
+            "commits": [
+                {
+                    "sha": "09cbd0f9140baf60d3c72f3123ab6a99a6fa17bb",
+                    "author": {
+                        "email": "muhammadmoaz2020@outlook.com",
+                        "name": "MuhammadMoaz"
+                    },
+                    "message": "added hi",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/MuhammadMoaz/cli-task-tracker/commits/09cbd0f9140baf60d3c72f3123ab6a99a6fa17bb"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2025-07-04T14:39:56Z"
+    },
+    {
+        "id": "51705676820",
+        "type": "PushEvent",
+        "actor": {
+            "id": 69945606,
+            "login": "MuhammadMoaz",
+            "display_login": "MuhammadMoaz",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/MuhammadMoaz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/69945606?"
+        },
+        "repo": {
+            "id": 1012426562,
+            "name": "MuhammadMoaz/cli-task-tracker",
+            "url": "https://api.github.com/repos/MuhammadMoaz/cli-task-tracker"
+        },
+        "payload": {
+            "repository_id": 1012426562,
+            "push_id": 25301252994,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "8603767a44f323183411cec37226c232fe53e153",
+            "before": "90a1d1d0817d90edd83187f2f5faaa965c8476b5",
+            "commits": [
+                {
+                    "sha": "8603767a44f323183411cec37226c232fe53e153",
+                    "author": {
+                        "email": "muhammadmoaz2020@outlook.com",
+                        "name": "MuhammadMoaz"
+                    },
+                    "message": "added basic add_task functionality",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/MuhammadMoaz/cli-task-tracker/commits/8603767a44f323183411cec37226c232fe53e153"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2025-07-04T14:36:16Z"
+    },
+    {
+        "id": "51705599344",
+        "type": "PushEvent",
+        "actor": {
+            "id": 69945606,
+            "login": "MuhammadMoaz",
+            "display_login": "MuhammadMoaz",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/MuhammadMoaz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/69945606?"
+        },
+        "repo": {
+            "id": 1012426562,
+            "name": "MuhammadMoaz/cli-task-tracker",
+            "url": "https://api.github.com/repos/MuhammadMoaz/cli-task-tracker"
+        },
+        "payload": {
+            "repository_id": 1012426562,
+            "push_id": 25301215144,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "90a1d1d0817d90edd83187f2f5faaa965c8476b5",
+            "before": "fcb5d54d3a8501530c7e4c53009046f8bd3fa6bc",
+            "commits": [
+                {
+                    "sha": "90a1d1d0817d90edd83187f2f5faaa965c8476b5",
+                    "author": {
+                        "email": "muhammadmoaz2020@outlook.com",
+                        "name": "MuhammadMoaz"
+                    },
+                    "message": "Added basic add_task functionality",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/MuhammadMoaz/cli-task-tracker/commits/90a1d1d0817d90edd83187f2f5faaa965c8476b5"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2025-07-04T14:34:02Z"
+    },
+    {
+        "id": "51692672486",
+        "type": "PushEvent",
+        "actor": {
+            "id": 69945606,
+            "login": "MuhammadMoaz",
+            "display_login": "MuhammadMoaz",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/MuhammadMoaz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/69945606?"
+        },
+        "repo": {
+            "id": 1012426562,
+            "name": "MuhammadMoaz/cli-task-tracker",
+            "url": "https://api.github.com/repos/MuhammadMoaz/cli-task-tracker"
+        },
+        "payload": {
+            "repository_id": 1012426562,
+            "push_id": 25294960428,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "fcb5d54d3a8501530c7e4c53009046f8bd3fa6bc",
+            "before": "d677efb6f9226677a46c2f4da546e6a84ef6139d",
+            "commits": [
+                {
+                    "sha": "fcb5d54d3a8501530c7e4c53009046f8bd3fa6bc",
+                    "author": {
+                        "email": "muhammadmoaz2020@outlook.com",
+                        "name": "MuhammadMoaz"
+                    },
+                    "message": "Implement basic layout",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/MuhammadMoaz/cli-task-tracker/commits/fcb5d54d3a8501530c7e4c53009046f8bd3fa6bc"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2025-07-04T08:59:26Z"
+    },
+    {
+        "id": "51599740835",
+        "type": "CreateEvent",
+        "actor": {
+            "id": 69945606,
+            "login": "MuhammadMoaz",
+            "display_login": "MuhammadMoaz",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/MuhammadMoaz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/69945606?"
+        },
+        "repo": {
+            "id": 1012426562,
+            "name": "MuhammadMoaz/cli-task-tracker",
+            "url": "https://api.github.com/repos/MuhammadMoaz/cli-task-tracker"
+        },
+        "payload": {
+            "ref": "main",
+            "ref_type": "branch",
+            "master_branch": "main",
+            "description": null,
+            "pusher_type": "user"
+        },
+        "public": true,
+        "created_at": "2025-07-02T10:10:34Z"
+    },
+    {
+        "id": "51599740665",
+        "type": "CreateEvent",
+        "actor": {
+            "id": 69945606,
+            "login": "MuhammadMoaz",
+            "display_login": "MuhammadMoaz",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/MuhammadMoaz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/69945606?"
+        },
+        "repo": {
+            "id": 1012426562,
+            "name": "MuhammadMoaz/cli-task-tracker",
+            "url": "https://api.github.com/repos/MuhammadMoaz/cli-task-tracker"
+        },
+        "payload": {
+            "ref": null,
+            "ref_type": "repository",
+            "master_branch": "main",
+            "description": null,
+            "pusher_type": "user"
+        },
+        "public": true,
+        "created_at": "2025-07-02T10:10:34Z"
+    }
+]
