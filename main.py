@@ -11,12 +11,13 @@ with open('reponse.json', "w") as file:
     json.dump(events, file, indent=4)
 
 for event in events:
-    if event["type"] == "CreateEvent":
-        print(f"- Created {event["repo"]["name"]}")
-    elif event["type"] == "PushEvent":
-        print(f"- Pushed {event["payload"]["size"]} commits to {event["repo"]["name"]}")
-    else:
-        print(event["type"])
-        print(event["repo"]["name"])
-
-print()
+    match event["type"]:
+        case "CreateEvent":
+            print(f"- Created {event["repo"]["name"]}")
+        case "PushEvent":
+            print(f"- Pushed {event["payload"]["size"]} commits to {event["repo"]["name"]}")
+        case "WatchEvent":
+            print(f"- Viewed {event["repo"]["name"]}")
+        case _:
+            print(event["type"])
+            print(event["repo"]["name"])
