@@ -17,4 +17,7 @@ with open('reponse.json', "w") as file:
     json.dump(events, file, indent=4)
 
 for event in events:
-    events_dict[event["type"]](event)
+    if event["type"] in events_dict:
+        events_dict[event["type"]](event)
+    else:
+        print(f"Unknown Event Type {event["type"]}")
