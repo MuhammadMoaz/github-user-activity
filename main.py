@@ -3,7 +3,7 @@ import json
 
 events_dict = {
     "CreateEvent": lambda event: print(f"- Created {event["repo"]["name"]}"),
-    "PushEvent": lambda event: print(f"- Pushed {event["payload"]["size"]} commits to {event["repo"]["name"]}"),
+    "PushEvent": lambda event: print(f"- Pushed {event["payload"]} commits to {event["repo"]["name"]}"),
     "WatchEvent": lambda event: print(f"- Viewed {event["repo"]["name"]}"),
     "CommitCommentEvent": lambda event: print(""),
     "DeleteEvent": lambda event: print(""),
