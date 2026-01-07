@@ -3,22 +3,22 @@ import json
 
 events_dict = {
     "CreateEvent": lambda event: print(f"- Created {event["repo"]["name"]}"),
-    "PushEvent": lambda event: print(f"- Pushed {event["payload"]} commits to {event["repo"]["name"]}"),
+    "PushEvent": lambda event: print(f"- Pushed commit to {event["repo"]["name"]}"),
     "WatchEvent": lambda event: print(f"- Viewed {event["repo"]["name"]}"),
-    "CommitCommentEvent": lambda event: print(""),
-    "DeleteEvent": lambda event: print(""),
-    "ForkEvent": lambda event: print(""),
-    "GollumEvent": lambda event: print(""),
-    "IssueCommentEvent": lambda event: print(""),
-    "IssuesEvent": lambda event: print(""),
-    "MemberEvent": lambda event: print(""),
-    "PublicEvent": lambda event: print(""),
-    "PullRequestEvent": lambda event: print(""),
-    "PullRequestReviewEvent": lambda event: print(""),
-    "PullRequestReviewCommentEvent": lambda event: print(""),
-    "PullRequestReviewThreadEvent": lambda event: print(""),
-    "ReleaseEvent": lambda event: print(""),
-    "SponsorshipEvent": lambda event: print("")
+    "CommitCommentEvent": lambda event: print(f"- Commit Comment"),
+    "DeleteEvent": lambda event: print(f"- Deleted ... "),
+    "ForkEvent": lambda event: print(f"- Forked ... "),
+    "GollumEvent": lambda event: print(f"- Gollum ... "),
+    "IssueCommentEvent": lambda event: print(f"- Issued Comment"),
+    "IssuesEvent": lambda event: print(f"- Issued ..."),
+    "MemberEvent": lambda event: print(f"- Member"),
+    "PublicEvent": lambda event: print(f"- Public Event"),
+    "PullRequestEvent": lambda event: print(f"- Sent a Pull Request ..."),
+    "PullRequestReviewEvent": lambda event: print(f"- Reviewed Pull Request"),
+    "PullRequestReviewCommentEvent": lambda event: print(f"- PRRC"),
+    "PullRequestReviewThreadEvent": lambda event: print(f"- PRRT"),
+    "ReleaseEvent": lambda event: print(f"- Released ..."),
+    "SponsorshipEvent": lambda event: print(f"- Sponsored ...")
 }
 
 username = input("Github Username: ")
