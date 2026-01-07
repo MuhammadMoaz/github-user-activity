@@ -1,5 +1,31 @@
 [
     {
+        "id": "7250507447",
+        "type": "PushEvent",
+        "actor": {
+            "id": 69945606,
+            "login": "MuhammadMoaz",
+            "display_login": "MuhammadMoaz",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/MuhammadMoaz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/69945606?"
+        },
+        "repo": {
+            "id": 1020104271,
+            "name": "MuhammadMoaz/github-user-activity",
+            "url": "https://api.github.com/repos/MuhammadMoaz/github-user-activity"
+        },
+        "payload": {
+            "repository_id": 1020104271,
+            "push_id": 29545428314,
+            "ref": "refs/heads/master",
+            "head": "b93b20cbe232362fc9f4b8d608f3aebbd4d7b617",
+            "before": "9aae8949f66202b80928ef2ac44f72c9cef745ec"
+        },
+        "public": true,
+        "created_at": "2026-01-07T06:54:49Z"
+    },
+    {
         "id": "7247393804",
         "type": "PushEvent",
         "actor": {
