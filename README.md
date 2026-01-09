@@ -1,20 +1,4 @@
 # github-user-activity
+https://roadmap.sh/projects/github-user-activity
 
-# All event types:
-- CommitCommentEvent
-- CreateEvent
-- DeleteEvent
-- ForkEvent
-- GollumEvent
-- IssueCommentEvent
-- IssuesEvent
-- MemberEvent
-- PublicEvent
-- PullRequestEvent
-- PullRequestReviewEvent
-- PullRequestReviewCommentEvent
-- PullRequestReviewThreadEvent
-- PushEvent
-- ReleaseEvent
-- SponsorshipEvent
-- WatchEvent
+A simple CLI program which tracks the public event log for the inputted GitHub user.
